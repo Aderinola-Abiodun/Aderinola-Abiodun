@@ -2,11 +2,16 @@
 
 ## I am a Data Analyst 
 
-I help business by turning their sales, marketing, and customer data into actionable growth strategies through data analysis and clear storytelling. I help them see the story behind their business data to drive growth, optimize conversion, reduce churn, and scale revenue.
+I turn messy sales, marketing, and customer data into clear, compelling stories that drive real business growth. From boosting conversions to cutting churn and scaling revenue, I help businesses uncover the insights that actually move the needle.
+
 
 🌍 I'm based in Lagos, Nigeria
+
 ✉️ You can contact me here: abiodunaderinola@gmail.com
+
 👥 I'm looking to collaborate on Interesting Projects
+
+
 ### 🛠 Tools & Tech Stack
 
 #### Data & Automation
