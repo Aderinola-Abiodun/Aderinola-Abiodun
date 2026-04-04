@@ -2,7 +2,7 @@
 
 ## I am a Data Analyst 
 
-I turn messy sales, marketing, and customer data into clear, compelling stories that drive real business growth. From boosting conversions to cutting churn and scaling revenue, I help businesses uncover the insights that actually move the needle.
+I am a passionate data enthusiast with a strong background in Power BI and Excel. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Data Analysis and highlights my ability to effectively communicate complex data visually. 
 
 
 🌍 I'm based in Lagos, Nigeria
