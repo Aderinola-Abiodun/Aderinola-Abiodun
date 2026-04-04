@@ -1,6 +1,12 @@
 ## Hi there 👋 My name is Aderinola Abiodun
 
+## I am a Data Analyst 
 
+I help business by turning their sales, marketing, and customer data into actionable growth strategies through data analysis and clear storytelling. I help them see the story behind their business data to drive growth, optimize conversion, reduce churn, and scale revenue.
+
+🌍 I'm based in Lagos, Nigeria
+✉️ You can contact me here: abiodunaderinola@gmail.com
+👥 I'm looking to collaborate on Interesting Projects
 ### 🛠 Tools & Tech Stack
 
 #### Data & Automation
